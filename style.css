@@ -19,14 +19,14 @@ body{
     font-size: 30px;
 }
 
-.kolor_zielony{
+.colorGreen{
     color: green;
 }
 
-.kolor_czerwony{
+.colorRed{
     color: red;
 }
 
-.kolor_zolty{
+.colorYellow{
     color: yellow;
 }
